@@ -1,5 +1,6 @@
 import { createApp } from 'vue';
 import '@fontsource/silkscreen';
+import './assets/scss/style.scss';
 import App from './App.vue';
 
 /* import the fontawesome core */
