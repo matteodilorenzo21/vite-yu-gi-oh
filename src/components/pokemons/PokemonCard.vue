@@ -22,7 +22,7 @@ export default {
 <style lang="scss" scoped>
 
 .pokemon-card {
-    background-color: #fff;
+    background-color: rgba(255, 255, 255, 0.9);
     border: 1px solid rgb(30, 30, 30);
     border-radius: 10px;
 }
